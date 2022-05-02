@@ -1,0 +1,12 @@
+version: '3.7'
+
+services:
+  wheel:
+    build: '.'
+    env_file:
+      - '.env'
+    ports:
+      - '${DOCKER_WEB_PORT:-8000}:8000'
+    volumes:
+      - './wheel:/wheel'
+    tty: true

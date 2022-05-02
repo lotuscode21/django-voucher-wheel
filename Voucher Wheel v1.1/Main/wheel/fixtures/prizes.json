@@ -1,0 +1,137 @@
+[
+{
+  "model": "app.prize",
+  "pk": 1,
+  "fields": {
+    "label": "10% OFF",
+    "winner": true,
+    "try_again": false
+  }
+},
+{
+  "model": "app.prize",
+  "pk": 2,
+  "fields": {
+    "label": "NO LUCK ...",
+    "winner": false,
+    "try_again": false
+  }
+},
+{
+  "model": "app.prize",
+  "pk": 3,
+  "fields": {
+    "label": "FREE SPIN!",
+    "winner": false,
+    "try_again": true
+  }
+},
+{
+  "model": "app.prize",
+  "pk": 4,
+  "fields": {
+    "label": "NOTHING ...",
+    "winner": false,
+    "try_again": false
+  }
+},
+{
+  "model": "app.prize",
+  "pk": 5,
+  "fields": {
+    "label": "5% OFF",
+    "winner": true,
+    "try_again": false
+  }
+},
+{
+  "model": "app.prize",
+  "pk": 6,
+  "fields": {
+    "label": "BAD LUCK ...",
+    "winner": false,
+    "try_again": false
+  }
+},
+{
+  "model": "app.prize",
+  "pk": 7,
+  "fields": {
+    "label": "NOTHING ...",
+    "winner": false,
+    "try_again": false
+  }
+},
+{
+  "model": "app.prize",
+  "pk": 8,
+  "fields": {
+    "label": "FREE T-SHIRT!",
+    "winner": true,
+    "try_again": false
+  }
+},
+{
+  "model": "app.prize",
+  "pk": 9,
+  "fields": {
+    "label": "SORRY ...",
+    "winner": false,
+    "try_again": false
+  }
+},
+{
+  "model": "app.prize",
+  "pk": 10,
+  "fields": {
+    "label": "FREE SPIN!",
+    "winner": false,
+    "try_again": true
+  }
+},
+{
+  "model": "app.prize",
+  "pk": 11,
+  "fields": {
+    "label": "25% OFF",
+    "winner": true,
+    "try_again": false
+  }
+},
+{
+  "model": "app.prize",
+  "pk": 12,
+  "fields": {
+    "label": "NOTHING",
+    "winner": false,
+    "try_again": false
+  }
+},
+{
+  "model": "app.prize",
+  "pk": 13,
+  "fields": {
+    "label": "SORRY ...",
+    "winner": false,
+    "try_again": false
+  }
+},
+{
+  "model": "app.prize",
+  "pk": 14,
+  "fields": {
+    "label": "5% OFF",
+    "winner": true,
+    "try_again": false
+  }
+},
+{
+  "model": "app.prize",
+  "pk": 15,
+  "fields": {
+    "label": "NEXT TIME ...",
+    "winner": false,
+    "try_again": false
+  }
+}
+]
